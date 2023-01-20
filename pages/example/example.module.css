@@ -1,0 +1,14 @@
+.flexbox {
+    display: flex;
+    /* gap: 3rem; */
+    /* flex: auto; */
+    justify-content: space-around;
+    /* background-color: aqua; */
+    width: 100%;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.marginaround {
+
+}
