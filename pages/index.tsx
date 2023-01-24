@@ -28,12 +28,12 @@ export default function Home() {
 					</div>
 				</div>
 
-				<div className={styles.center}>
+				{/* <div className={styles.center}>
 					<Image className={styles.logo} src="/ssaik.png" alt="Next.js Logo" width={180} height={37} priority />
-					{/* <div className={styles.thirteen}>
+					 <div className={styles.thirteen}>
 						<Image src="/thirteen.svg" alt="13" width={40} height={31} priority />
-					</div> */}
-				</div>
+					</div> 
+				</div> */}
 
 				<div className={styles.grid}>
 					<Link href="/example/example1" className={styles.card}>
