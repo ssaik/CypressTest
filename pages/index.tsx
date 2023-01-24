@@ -37,70 +37,70 @@ export default function Home() {
 
 				<div className={styles.grid}>
 					<Link href="/example/example1" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example1" className={inter.className}>
 							Example1 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example2" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example2" className={inter.className}>
 							Example2 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example3" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example3" className={inter.className}>
 							Example3 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example4" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example4" className={inter.className}>
 							Example4 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example5" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example5" className={inter.className}>
 							Example5 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example6" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example6" className={inter.className}>
 							Example6 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example7" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example7" className={inter.className}>
 							Example7 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example8" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example8" className={inter.className}>
 							Example8 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
 					<Link href="/example/example9" className={styles.card}>
-						<h2 className={inter.className}>
+						<h2 class="example9" className={inter.className}>
 							Example9 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>
 					</Link>
 
-					<Link href="/example/example10" className={styles.card}>
-						<h2 className={inter.className}>
+					<Link href="/example/exampleTen" className={styles.card}>
+						<h2 class="exampleTen" className={inter.className}>
 							Example10 <span>-&gt;</span>
 						</h2>
 						<p className={inter.className}>assert for "This is Purple"</p>

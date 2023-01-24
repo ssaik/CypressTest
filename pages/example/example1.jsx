@@ -11,8 +11,10 @@ export default function example1() {
 				<title>First Post</title>
 			</Head>
 			<main className={styles2.main}>
-				<h1 style={{ marginBottom: "2rem" }}>Write assertion to for "This is purple"</h1>
+				<h1 style={{ marginBottom: "2rem" }}>Write assertion to for "This is purple" which is in RED Color</h1>
 				<div class="purple">This is purple</div>
+				<div class="red"  style={{color: "red"}}>This is purple</div>
+				<div class="yellow">This is purple</div>
 				<div className={styles.flexbox}>
 					<h2>
 						<Link href="/">← Back to Home</Link>

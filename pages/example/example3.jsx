@@ -15,6 +15,10 @@ export default function example1() {
 				<div class="purple">
 					<b class="color">This is purple</b>
 				</div>
+				<div class="purple">
+					<b class="color red" style={{color: "red"}}>This is purple</b>
+					<b class="red">This is purple</b>
+				</div>
 				<div className={styles.flexbox}>
 					<h2>
 						<Link href="/example/example2">← Back to Example2</Link>
